@@ -1,0 +1,44 @@
+
+.valueInput 
+{
+    margin: 20px auto 10px auto;
+}
+
+.button 
+{
+    margin: 20px auto 20px auto;
+}
+
+.row 
+{
+    display: block;
+}
+
+.centerAlign 
+{
+    text-align: center;
+}
+
+.resultArea 
+{
+    width: 100%;
+}
+
+.color
+{
+    background-color: rgb(198, 252, 232);
+    color:rgb(223, 57, 24);
+}
+
+.border 
+{
+    border-color:rgb(223, 57, 24);
+    border-style:dashed;
+    border-width: 1px;
+    border-radius: 10%;
+}
+
+body 
+{
+    background-color: rgb(198, 252, 232);
+}
